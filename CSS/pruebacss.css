@@ -26,8 +26,7 @@
 .maincatalogo {
   background-color: #1B2726;
   box-sizing: border-box;
-  margin-bottom: 0px;
-  height: 850px; }
+  margin-bottom: 0px; }
 
 .headerfoot {
   background-color: #343D40;
@@ -53,7 +52,8 @@ li {
   display: inline-block;
   width: 18%;
   font-size: 18px;
-  position: relative; }
+  position: center;
+  text-align: center; }
 
 .amarillo {
   display: inline;
@@ -117,6 +117,23 @@ li {
 .imagenes2 {
   display: inline-block; }
 
+.imagenes1 {
+  padding-top: 30px;
+  list-style: none;
+  font-size: 0px;
+  text-align: center;
+  color: white; }
+
+.imagenes3 {
+  margin: 5px 40px 5px 40px;
+  display: inline-block; }
+
+/*.precio{
+	padding-top: 2px;
+	padding-bottom: 2px;
+
+}
+*/
 .ubicacion {
   padding-top: 70px;
   padding-top: 3px;
